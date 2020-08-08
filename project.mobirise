@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "T'elista ",
-    "currentPage": "Page1.html",
+    "currentPage": "Page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1002,7 +1002,7 @@
     "Page4.html": {
       "settings": {
         "meta_descr": "T'telista Projects ",
-        "title": "Galary",
+        "title": "Gallary",
         "order": 4
       },
       "components": [
