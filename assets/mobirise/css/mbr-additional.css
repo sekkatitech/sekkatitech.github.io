@@ -1385,7 +1385,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s6TyV9BGRG .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.4rem);
+    max-height: calc(98.5vh - 5.1rem);
   }
 }
 .cid-s6TyV9BGRG .collapsed button.navbar-toggler {
@@ -3188,7 +3188,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s6TyV9BGRG .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.4rem);
+    max-height: calc(98.5vh - 5.1rem);
   }
 }
 .cid-s6TyV9BGRG .collapsed button.navbar-toggler {
@@ -3601,8 +3601,8 @@ section.lazy-placeholder:after {
   background-color: #232323;
 }
 .cid-s6SHCLJhh7 .line {
-  background-color: #c4bc3b;
-  color: #c4bc3b;
+  background-color: #e2a308;
+  color: #e2a308;
   align: center;
   height: 2px;
   margin: 0 auto;
