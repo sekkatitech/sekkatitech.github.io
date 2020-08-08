@@ -53,7 +53,7 @@
       }
     ],
     "uniqCompNum": 57,
-    "versionPublish": "4.12.2",
+    "versionPublish": "5.0.22",
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": false,
@@ -3345,7 +3345,7 @@
     },
     "Page1.html": {
       "settings": {
-        "meta_descr": "T'eslista company",
+        "meta_descr": "T'elista company",
         "title": "About Us",
         "order": 2
       },
